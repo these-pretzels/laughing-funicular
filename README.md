@@ -1,10 +1,10 @@
 # laughing-funicular
 
-git init
-git add file.tf 
-git commit -m "this is my note"
-git push
-
-Happy times.
-
-git pull
+git init <BR>
+git add file.tf <BR>
+git commit -m "this is my note"<BR>
+git push<BR>
+<BR>
+Happy times.<BR>
+<BR>
+git pull<BR>
