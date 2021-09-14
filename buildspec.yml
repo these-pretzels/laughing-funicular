@@ -32,7 +32,7 @@ phases:
     #file-format: JunitXml | CucumberJson
 artifacts:
   files:
-     - '/appspecto.yml'
+     - appspecto.yml
     # - location
   name: YOyoyo
   #discard-paths: yes
